@@ -6,7 +6,16 @@
 
 <font color="pink">Tea is how I keep up with '< code />' </font>
 
-### Reach out to me
+<details>
+<summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=Kaanking46&theme=radical" >
+</details>
+
+<details>
+<summary>:bulb: Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=Kaanking46&theme=radical" >
+</details>
 
 
-[instagram]:
+
+
